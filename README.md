@@ -2,6 +2,19 @@
 
 Dép. Communication \& Marketing - Fichier Collaboratif
 
+se déplacer dans les fichiers :
+
+cd 
+
+
+
+sortir d'un fichier :
+ls
+
+
+
+
+
 
 
 Récupérer tous les fichiers :
